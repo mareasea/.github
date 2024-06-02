@@ -6,6 +6,7 @@
 ![logo_bf](https://github.com/mareasea/.github/assets/136378912/fcc42423-e490-4e67-b9f8-fe451b6bac55) 
 <br>
 *"Conceito que se refere a um futuro sustentável e próspero centrado na proteção e uso responsável dos oceanos e recursos marinhos. Este conceito engloba uma visão holística e integrada que reconhece a importância dos oceanos para a economia global, o meio ambiente e o bem-estar das comunidades costeiras e de todo o planeta"*
+<br>
 **O Desafio de “Inovação Azul” 2024 incentiva os estudantes, entusiastas de tecnologia, inovação e sustentabilidade, acontribuir para soluções que promovam uma gestão sustentável dos oceanos. Buscamos projetos que alertem e informem as populações costeiras e as empresas que utilizam os mares para existência e subsistência sobre a saúde dos oceanos."**
 <br>
 <br>
